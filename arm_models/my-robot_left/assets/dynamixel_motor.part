@@ -1,0 +1,14 @@
+{
+    "configuration": "default",
+    "documentId": "6add393e3bff351416c6b6f0",
+    "documentMicroversion": "c0e5296ffcce944e435e19d5",
+    "documentVersion": "030ddb0e7865450e8a3167c9",
+    "elementId": "915775522b86e91dc638e804",
+    "fullConfiguration": "default",
+    "id": "M4vELVvtil94oKxdA",
+    "isStandardContent": false,
+    "name": "Dynamixel Motor <1>",
+    "partId": "JFP",
+    "suppressed": false,
+    "type": "Part"
+}

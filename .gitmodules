@@ -1,0 +1,8 @@
+[submodule "modpack/robots/rby1"]
+	path = modpack/robots/rby1
+	url = https://github.com/real-stanford/rby1-wbc.git
+	branch = modpack
+[submodule "third_party/robologger"]
+	path = third_party/robologger
+	url = https://github.com/citronCode/robologger.git
+	branch = modpack-logging

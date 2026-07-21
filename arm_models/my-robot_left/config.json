@@ -1,0 +1,25 @@
+
+{
+    "url": "https://cad.onshape.com/documents/c9d5d760d88ec67ef7b88f33/v/a1cc6ec109abfd69f9da22e8/e/fafb1d8f15675255fff5734e",
+    "output_format": "urdf",
+    "robotName": "gello",
+    "packageName": "gello_description",
+    "outputDirectory": "./gello_urdf_export",
+    
+    "useCoordinateSystems": true,
+    "noDynamics": false,
+    
+    "useVisualMeshes": true,
+    "useCollisionMeshes": true,
+    "meshFormat": "stl",
+    "meshUnit": "m",
+    "mergeSTLs": false,
+    "simplifySTL": false,
+    
+    "drawFrames": false,
+    "showCoordinateFrames": false,
+    
+    "removeComments": false,
+    "prettyXML": true,
+    "verbose": true
+}

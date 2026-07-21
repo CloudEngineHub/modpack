@@ -1,0 +1,49 @@
+**/__pycache__/
+*.pyc
+*/launch/
+# TLS certs (generated at runtime)
+**/*.pem
+
+# Run-time data artifacts
+data/
+latency_logs/
+latency_*.jsonl
+torque_debug_artifacts/
+obs_verification/
+rollout_prediction_logs/
+demo_out/
+modpack/neck_robot/vp_command_plots/
+modpack/robots/arx5/vp_command_plots/
+modpack/modules/gello/torque_logs/
+
+# Stray debug files at repo root
+*.npy
+*.png
+*.mp4
+*.jsonl
+
+# ...but keep README/docs media committed under assets/
+!assets/**/*.png
+!assets/**/*.mp4
+K_depth.npy
+webxios.js
+webxrios.js
+vscode-server.tar.gz
+error.png
+gravity_comp_rby1.png
+yaw_lag_*.png
+rollout_predictions*.png
+
+# External repos / policy checkouts
+tidybot2_base/
+hrl-kdl/
+kdl_parser/
+modpack-policy/
+camera_test_images/
+dist_macos
+
+# IDE
+.vscode/
+.claude/
+.DS_Store
+modpack/config/vp_command_plots/*.csv
