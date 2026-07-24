@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://modpack-robotics.github.io/"><img src="https://img.shields.io/badge/Website-modpack--robotics-blue" alt="Website"></a>
   <a href="https://modpack-robotics.github.io/docs/"><img src="https://img.shields.io/badge/Docs-online-success" alt="Docs"></a>
-  <a href="#citation"><img src="https://img.shields.io/badge/Paper-coming%20soon-lightgray" alt="Paper"></a>
+  <a href="https://arxiv.org/abs/2607.19479"><img src="https://img.shields.io/badge/Paper-arXiv%3A2607.19479-b31b1b" alt="Paper"></a>
   <img src="https://img.shields.io/badge/Python-3.10-3776AB" alt="Python 3.10">
 </p>
 
