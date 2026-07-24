@@ -246,11 +246,14 @@ scripts/                 ← operator/dev tooling (data_tools/, calibration/)
 If you find this work useful, please cite the following:
 
 ```bibtex
-@misc{xxx,
-  title  = {ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation},
-  author = {Joshua Citron and Renee Zbizika and Zeyi Liu and Shuran Song},
-  year   = {2026},
-  url    = {xxx}
+@misc{citron2026modpackextensibleteleoperationinterface,
+      title={ModPack: An Extensible Teleoperation Interface for Bimanual Mobile Manipulation}, 
+      author={Joshua Citron and Renee Zbizika and Zeyi Liu and Shuran Song},
+      year={2026},
+      eprint={2607.19479},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2607.19479}, 
 }
 ```
 
